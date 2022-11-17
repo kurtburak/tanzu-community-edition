@@ -32,6 +32,7 @@ HUGO_ENABLEGITINFO = "true"
 [[redirects]]
   from = "/plugins"
   to = "/"
+<<<<<<< HEAD
   status = 301
 
 [[redirects]]
@@ -116,3 +117,6 @@ HUGO_ENABLEGITINFO = "true"
 
 
 
+=======
+  status = 301
+>>>>>>> parent of f16cad8a (Add redirects and update homepage, nav, footer (#5468))
